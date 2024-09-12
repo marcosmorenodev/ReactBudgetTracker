@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#income-el {
+    color: #4ade80;
+    text-shadow:
+    0 0 4px #fff,
+    0 0 11px #fff,
+    0 0 18px #fff,
+    0 0 25px #4ade80,
+    0 0 32px #4ade80, 
+    0 0 40px #4ade80,
+    0 0 48px #4ade80;
+}
+
+#expenses-el {
+    color: #ef4444; 
+    text-shadow:
+    0 0 4px #fff,
+    0 0 11px #fff,
+    0 0 18px #fff,
+    0 0 25px #ef4444, 
+    0 0 32px #ef4444,
+    0 0 40px #ef4444,
+    0 0 48px #ef4444;
+}
+
+#budget-el {
+    color: #93c5fd; 
+    text-shadow:
+    0 0 4px #fff,
+    0 0 11px #fff,
+    0 0 18px #fff,
+    0 0 25px #93c5fd, 
+    0 0 32px #93c5fd,
+    0 0 40px #93c5fd,
+    0 0 48px #93c5fd;
+}
